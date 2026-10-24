@@ -1,0 +1,16 @@
+# Large datasets
+data/*.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Generated model files
+*.joblib
+
+# IDE settings
+.vscode/
